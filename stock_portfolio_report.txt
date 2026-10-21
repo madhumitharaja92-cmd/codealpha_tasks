@@ -1,0 +1,19 @@
+STOCK PORTFOLIO TRACKER REPORT
+===================================
+
+Note: These are sample prices for the CodeAlpha Task 2 demo,
+not live market prices.
+
+Stock: TCS
+Quantity: 2
+Price per stock: Rs. 4000
+Investment: Rs. 8000
+
+Stock: INFOSYS
+Quantity: 3
+Price per stock: Rs. 1500
+Investment: Rs. 4500
+
+-----------------------------------
+TOTAL INVESTMENT: Rs. 12500
+-----------------------------------
