@@ -36,22 +36,22 @@ Python
 
 Note: Stock prices are sample values, not live market prices.
 
-Task 3: Email Address Extractor
+##Task 3: Email Address Extractor
 
 A Python program that extracts email addresses from a text file and saves them into another text file.
 
-Features
+##Features
 
 - Reads email addresses from input_emails.txt
 - Extracts email addresses using Python regular expressions
 - Removes duplicate email addresses
 - Saves the results in extracted_emails.txt
 
-Technology Used
+##Technology used 
 
 Python
 
-Files
+##Files
 
 - email_extractor.py
 - input_emails.txt
